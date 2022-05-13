@@ -29,9 +29,9 @@ Now with your credentials set, you need to create a google spreadsheet:
 2. Create a new one
 3. Share the spreadsheet with the **client_email** from `credentials.json`
 4. Copy the id that comes after `/d/` in the url
-   - google.com/spreadsheets/d/`1Cj4NO7gShzRc5cPYy2tt3aOj_uwmzDNaRk5ZGe7X7G8`/
+   - google.com/spreadsheets/d/`the-spreadsheet-id`/
 5. Save the copied ID to your `.env.local`:
-   - `SHEET_ID=1Cj4NO7gShzRc5cPYy2tt3aOj_uwmzDNaRk5ZGe7X7G8`
+   - `SHEET_ID=the-spreadsheet-id`
 6. Now you can access the spreadsheet
 
 ## Data structure
