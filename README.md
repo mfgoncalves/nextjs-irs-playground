@@ -40,7 +40,7 @@ This project expects that your spreadsheet have the following structure:
 
 | id  | name           | quantity | price     | image_url |
 | --- | -------------- | -------- | --------- | --------- |
-| 1   | First product  | 50       | 10.00 USD | < url>    |
+| 1   | First product  | 50       | 10.00 USD |           |
 | 2   | Second product | 25       | 15.00 USD |           |
 | 3   | Third product  | 100      | 9.99 USD  |           |
 
